@@ -2,6 +2,8 @@
 #This api displays the latest scores ofa mock premier league and gives users and Admins certain rights
 #These are the end points to access api resources
 
+#Base Url : https://premier-league.azurewebsites.net/api/
+
 #Description for endpoint route
 
 GET /api/users -displays the list of existing users within the application
