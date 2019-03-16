@@ -21,7 +21,7 @@ DELETE /api/teams/:id -deletes an existing team resorce (Admin Resource) <br><br
 
 
 GET /api/fixtures -displays the list of fixtures within the mock premier league and can be viewed by 
-logged in users and admins
+logged in users and admins<br/>
 POST /api/fixtures - creates a new fixture resource (Admin access)<br>
 PUT /api/fixtures/:id - updates an existing fixture (Admin Access)<br>
 </pre>
