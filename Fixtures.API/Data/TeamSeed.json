@@ -1,0 +1,67 @@
+[
+    {
+        "Name": "Chelsea FC",
+        "LocationCity": "London West",
+        "LocationCountry": "United Kingdom",
+        "LogoUrl": "",
+        "FanStrength": 67890,
+        "ShortName": "CHE",
+        "Win": 7,
+        "Loss":2,
+        "StadiumName": "Stamford Bridge",
+        "NameOfManager": "Maurizzio Sarri",
+        "YearFounded": "1972/03/11"
+    },
+    {
+        "Name": "Manchester City",
+        "LocationCity": "London West",
+        "LocationCountry": "United Kingdom",
+        "LogoUrl": "",
+        "ShortName": "MCH",
+        "FanStrength": 67890,
+        "Win": 7,
+        "Loss":2,
+        "StadiumName": "Stamford Bridge",
+        "NameOfManager": "Pep Guardiola",
+        "YearFounded": "1982/04/11"
+    },
+    {
+        "Name": "Manchester United",
+        "LocationCity": "London West",
+        "LocationCountry": "United Kingdom",
+        "LogoUrl": "",
+        "ShortName": "MUN",
+        "Win": 7,
+        "Loss":2,
+        "FanStrength": 67890,
+        "StadiumName": "Stamford Bridge",
+        "NameOfManager": "Ole OG",
+        "YearFounded": "1992/03/11"
+    },
+    {
+        "Name": "Barcelona FC",
+        "LocationCity": "Barcelona",
+        "LocationCountry": "Spain",
+        "LogoUrl": "",
+        "ShortName": "FCB",
+        "Win": 7,
+        "Loss":2,
+        "FanStrength": 67890,
+        "StadiumName": "Camp Nou",
+        "NameOfManager": "Maurizzio Sarri",
+        "YearFounded": "1942/03/11"
+    },
+    {
+        "Name": "Juventus FC",
+        "LocationCity": "Italy",
+        "LocationCountry": "Italy",
+        "LogoUrl": "",
+        "ShortName": "JUV",
+        "Win": 7,
+        "Loss":2,
+        "FanStrength": 67790,
+        "StadiumName": "Stamford Bridge",
+        "NameOfManager": "Maurizzio Sarri",
+        "YearFounded": "1992/03/11"
+    }
+]

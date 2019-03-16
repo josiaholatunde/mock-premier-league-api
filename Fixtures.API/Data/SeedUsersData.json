@@ -1,0 +1,26 @@
+[
+    {
+        "UserName": "Olatunde",
+        "Password": "password",
+        "favoriteTeam": "Chelsea FC",
+        "UserRole": 1
+    },
+    {
+        "UserName": "foterazzi",
+        "Password": "password",
+        "favoriteTeam": "Arsenal FC",
+        "UserRole": 0
+    },
+    {
+        "UserName": "labule",
+        "Password": "password",
+        "favoriteTeam": "Manchester City",
+        "UserRole": 1
+    },
+    {
+        "UserName": "miracle",
+        "Password": "password",
+        "favoriteTeam": "Stoke City",
+        "UserRole": 0
+    }
+]
